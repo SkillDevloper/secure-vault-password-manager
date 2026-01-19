@@ -38,7 +38,7 @@ A secure, local password manager with both GUI and CLI interfaces. All passwords
 ## 📸 Screenshots
 
 ### GUI Interface
-![GUI Screenshot](https://via.placeholder.com/800x500/2c3e50/ffffff?text=Secure+Vault+GUI+Interface)
+![GUI Screenshot](https://github.com/SkillDevloper/secure-vault-password-manager/blob/main/GUI_Screenshot.jpg)
 *Clean, modern interface with all controls in one place*
 
 ### CLI Interface
@@ -538,5 +538,6 @@ Made with ❤️ by Daniyal Shahid
 - [License](#-license)
 
 ---
+
 
 **Happy and Secure Password Managing!** 🔐
