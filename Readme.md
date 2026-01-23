@@ -42,8 +42,6 @@ A modern, secure, local password manager with a beautiful PyQt5 GUI interface. A
 - **Improved Dialog Styling**: All dialogs (QMessageBox, QInputDialog) support dark mode
 - **Better Table Display**: Enhanced table styling with proper date formatting
 
-## 📸 Screenshots
-
 ## 📸 Application Screenshots
 
 ### 🚀 First Run Setup Dialog
