@@ -1,0 +1,4 @@
+cryptography>=42.0.0
+pyperclip>=1.8.2
+PyQt5>=5.15.0
+reportlab>=4.0.0
