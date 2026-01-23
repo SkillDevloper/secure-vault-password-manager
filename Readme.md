@@ -44,9 +44,35 @@ A modern, secure, local password manager with a beautiful PyQt5 GUI interface. A
 
 ## 📸 Screenshots
 
-### GUI Interface
-![GUI Screenshot](https://via.placeholder.com/800x500/2c3e50/ffffff?text=Secure+Vault+PyQt5+Interface)
-*Modern PyQt5 interface with dark mode support, gradient buttons, and professional styling*
+## 📸 Application Screenshots
+
+### 🚀 First Run Setup Dialog
+![GUI First-Run](https://github.com/SkillDevloper/secure-vault-password-manager/blob/master/Images_frontend/First_run_dialogbox.jpg?raw=true)
+
+---
+
+### ℹ️ About Section
+![GUI About](https://github.com/SkillDevloper/secure-vault-password-manager/blob/master/Images_frontend/About.jpg?raw=true)
+
+---
+
+### 🔑 Password Generator Interface
+![GUI Generate_Password](https://github.com/SkillDevloper/secure-vault-password-manager/blob/master/Images_frontend/Generate_Password.jpg?raw=true)
+
+---
+
+### 🌙 Dashboard with Dark Mode
+![GUI dark-mode](https://github.com/SkillDevloper/secure-vault-password-manager/blob/master/Images_frontend/Dashboard_dark_mode.jpg?raw=true)
+
+---
+
+### 🔐 Main Dashboard (Light Mode)
+![GUI Look](https://github.com/SkillDevloper/secure-vault-password-manager/blob/master/Images_frontend/GUI_Look.jpg?raw=true)
+
+---
+
+### 📄 PDF Report Export Feature
+![GUI PDF-Report](Images_frontend/PDF_Export.jpg)
 
 **Features:**
 - Light/Dark mode toggle
